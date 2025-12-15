@@ -1,5 +1,21 @@
-## BUSINESS-ANALYTICS-WITH-PYTHON
+## 📊BUSINESS-ANALYTICS-WITH-PYTHON
 A complete data analysis project built with Pandas, NumPy, Matplotlib, and Seaborn, focusing on exploring and visualizing key business metrics of technology companies.
+Use this version if you want a longer and more descriptive "About" section on GitHub:
+# ⭐️ Extended Description 
+This project provides a comprehensive analysis of tech company performance using Python. It demonstrates how to:
+
+- Read and inspect structured business datasets
+
+- Clean and preprocess data
+
+- Generate descriptive statistics and summaries
+
+- Identify missing values and data issues
+
+- Visualize relationships between key business indicators
+
+- Produce meaningful insights through trend analysis
+  
 # 📊 Tech Companies Data Analysis
 Comprehensive Data Exploration & Visualization Using Python
 
@@ -41,7 +57,7 @@ https://github.com/Mohit-Deswal0606/Business-analytics-with-python.git
 pip install -r requirements.txt
 ```
 3️⃣ Add Data File
-Place Tech_Companies.csv inside the data/ folder
+- Place Tech_Companies.csv inside the data/ folder
 
 4️⃣ Run the Script
 ```bash
