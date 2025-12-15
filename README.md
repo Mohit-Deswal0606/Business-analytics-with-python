@@ -42,6 +42,7 @@ pip install -r requirements.txt
 ```
 3️⃣ Add Data File
 Place Tech_Companies.csv inside the data/ folder
+
 4️⃣ Run the Script
 ```bash
 python_project.py
